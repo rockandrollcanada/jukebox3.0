@@ -7,3 +7,5 @@ permalink: /
 ---
 
 Welcome to Jukebox 3.0
+
+Now available on github pages
