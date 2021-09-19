@@ -6,4 +6,4 @@ description: "Rock and Roll Canada Jukebox."
 permalink: /
 ---
 
-Welcome to my new blog!
+Welcome to Jukebox 3.0
