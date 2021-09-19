@@ -7,3 +7,6 @@ description: "A diary of Canadian Rock and Roll."
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
