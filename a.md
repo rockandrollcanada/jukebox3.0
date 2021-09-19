@@ -1,16 +1,11 @@
-
 ---
 layout: default
 title: A
 nav_order: 2
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /jukebox-a
+description: "a"
+permalink: /a
 ---
 
-
-  
-  
-          <div class="video-container">
             <iframe
               title="Anti Queens Live New years at Bovine Sex Club"
               src="https://www.youtube.com/embed/iwNZy5kCGHQ"
@@ -18,27 +13,26 @@ permalink: /jukebox-a
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
             ></iframe>
-              
-          </div>
-        
-       
-          <div class="video-container">
+
+
+
+
+
             <iframe
-              
+
               title="Ladders Anti Queens at Bovine Sex Club"
               src="https://www.youtube.com/embed/XtgaNu8tI-c"
               frameborder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
             ></iframe>
-          </div>
-        
-      
-    
-     
+
+
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Anti Queens New Years Eve Bovine Sex Club"
               src="https://www.youtube.com/embed/g0TTKJcIYaE"
               frameborder="0"
@@ -46,12 +40,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
-        
-        
+
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/Hxr0FwKzoFc"
               frameborder="0"
@@ -59,19 +53,19 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
 
       <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
 
-      
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/l71ax_eK6qA"
               frameborder="0"
@@ -79,12 +73,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/LgcaaPq_EnE"
               frameborder="0"
@@ -92,12 +86,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-     
+
       <br>
-      
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/d-MFB1QF5gM"
               frameborder="0"
@@ -105,12 +99,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/6d_vRTMyjlg"
               frameborder="0"
@@ -118,17 +112,17 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-      
+
       <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
-      
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/23YP7OOXhkY"
               frameborder="0"
@@ -136,12 +130,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/XdYTItXlxl4"
               frameborder="0"
@@ -149,14 +143,14 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
 
       <br>
-      
-        
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/kM66DK9woiI"
               frameborder="0"
@@ -164,12 +158,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-           
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/9APHwVrewps"
               frameborder="0"
@@ -177,19 +171,19 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
-      
+
+
       <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
-      
-        
+
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/NXE3bjLAuCw"
               frameborder="0"
@@ -197,12 +191,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-            
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/79p3fIkigB0"
               frameborder="0"
@@ -210,12 +204,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-      
+
       <br>
-     
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/G4MLq5xx6P0"
               frameborder="0"
@@ -223,12 +217,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-  
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/_tuURDV2iD4"
               frameborder="0"
@@ -236,18 +230,18 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-    
-      
+
+
        <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
-     
+
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/KP17TeLVvUQ"
               frameborder="0"
@@ -255,12 +249,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-         
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/8C2JSiJzd_c"
               frameborder="0"
@@ -268,12 +262,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
       <br>
-    
+
           <div class="video-container">
             <iframe
-              
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/K3eeyjEkDKA"
               frameborder="0"
@@ -281,12 +275,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-           
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/L-h3KMo0VrU"
               frameborder="0"
@@ -294,18 +288,18 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
      <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
 
-      
-        
+
+
           <div class="video-container">
             <iframe
-             
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/q3-96xbPyHw"
               frameborder="0"
@@ -313,12 +307,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-        
+
         <br>
-        
+
           <div class="video-container">
             <iframe
-           
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/YUmkSHzB6y8"
               frameborder="0"
@@ -326,13 +320,13 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-    
-    
+
+
       <br>
 
           <div class="video-container">
             <iframe
-             
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/iq91kIxgBrs"
               frameborder="0"
@@ -340,12 +334,12 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-     
+
         <br>
-    
+
           <div class="video-container">
             <iframe
-             
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/sEVBXvB_liY"
               frameborder="0"
@@ -353,18 +347,18 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-       
-     
-      
+
+
+
        <br>
       <img class="responsive-img"
         src="./images/jukebox-part.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
+
           <div class="video-container">
             <iframe
-             
+
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/1tbHZIj3gXA"
               frameborder="0"
@@ -372,25 +366,24 @@ permalink: /jukebox-a
               allowfullscreen
             ></iframe>
           </div>
-    
+
 
      <!--This is a comment. Comments are not displayed in the browser-->
      <br>
 
-  <footer class="page-footer red darken-4">
-      
 
-      
+
+
       <div class="container">
-     
+
        <img class="responsive-img"
         src="./images/footer.png"
         alt="Rock and Roll Canada Jukebox Version two."
       />
-      
+
         <div class="row">
               <div class="col l3 m3 s3">
-          
+
           <ul>
             <li><a class="white-text" href="./jukebox-a.html">Jukebox A</a></li>
             <li><a class="white-text" href="./jukebox-b.html">Jukebox B</a></li>
@@ -399,7 +392,7 @@ permalink: /jukebox-a
           </ul>
         </div>
               <div class="col l3 m3 s13">
-          
+
           <ul>
             <li><a class="white-text" href="./jukebox-e.html">Jukebox E</a></li>
             <li><a class="white-text" href="./jukebox-f.html">Jukebox F</a></li>
@@ -408,7 +401,7 @@ permalink: /jukebox-a
           </ul>
         </div>
               <div class="col l3 m3 s3">
-        
+
           <ul>
             <li><a class="white-text" href="./jukebox-i.html">Jukebox I</a></li>
             <li><a class="white-text" href="./jukebox-j.html">Jukebox J</a></li>
@@ -418,7 +411,7 @@ permalink: /jukebox-a
         </div>
 
               <div class="col l3 m3 s3">
-        
+
           <ul>
             <li><a class="white-text" href="./jukebox-m.html">Jukebox M</a></li>
             <li><a class="white-text" href="./jukebox-n.html">Jukebox N</a></li>
@@ -429,7 +422,7 @@ permalink: /jukebox-a
       </div>
          <div class="row">
               <div class="col l3 m3 s3">
-         
+
           <ul>
             <li><a class="white-text" href="./jukebox-q.html">Jukebox Q</a></li>
             <li><a class="white-text" href="./jukebox-r.html">Jukebox R</a></li>
@@ -438,7 +431,7 @@ permalink: /jukebox-a
           </ul>
         </div>
         <div class="col l3 m3 s3">
-          
+
           <ul>
             <li><a class="white-text" href="./jukebox-u.html">Jukebox U</a></li>
             <li><a class="white-text" href="./jukebox-v.html">Jukebox V</a></li>
@@ -447,23 +440,18 @@ permalink: /jukebox-a
           </ul>
         </div>
         <div class="col l3 m3 s3">
-         
+
           <ul>
             <li><a class="white-text" href="./jukebox-y.html">Jukebox Y</a></li>
             <li><a class="white-text" href="./jukebox-z.html">Jukebox Z</a></li>
-            
+
           </ul>
         </div>
         </div>
       </div>
-    
+
     <div class="footer-copyright">
       <div class="container">
       Made by <a class="black-text text-dark-4" href="http://glensmith.ca">&nbsp;Glen Smith</a>
       </div>
     </div>
-  </footer>
-
-
-  
-
