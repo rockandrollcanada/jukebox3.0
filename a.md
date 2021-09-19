@@ -2,9 +2,19 @@
 layout: default
 title: A
 nav_order: 2
-description: "a"
+description: "Rock and Roll Canada A Bands"
 permalink: /a
 ---
+
+# <<<<<<< HEAD:a.md
+
+Welcome to Jukebox 3.0
+
+Now available on github pages
+
+          <div class="video-container">
+
+> > > > > > > 0430b279cc2f3b0231fdc2812d991bdeb523f639:jukebox-a.html
 
             <iframe
               title="Anti Queens Live New years at Bovine Sex Club"
