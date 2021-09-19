@@ -9,27 +9,10 @@ permalink: /a
 <div class="container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
 </div>
-# <<<<<<< HEAD:a.md
 
-Welcome to Jukebox 3.0
-
-Now available on github pages
-
-          <div class="video-container">
-
-> > > > > > > 0430b279cc2f3b0231fdc2812d991bdeb523f639:jukebox-a.html
-
-            <iframe
-              title="Anti Queens Live New years at Bovine Sex Club"
-              src="https://www.youtube.com/embed/iwNZy5kCGHQ"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-
-
-
-
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/iwNZy5kCGHQ"></iframe>
+</div>
 
             <iframe
 
