@@ -2,7 +2,7 @@
 layout: default
 title: A
 nav_order: 2
-description: "Rock and Roll Canada A Bands"
+description: "Rock and Roll Canada Jukebox A bands."
 permalink: /a
 ---
 
