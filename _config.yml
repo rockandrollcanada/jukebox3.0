@@ -1,0 +1,9 @@
+# Site settings
+title: Rock and Roll Canada Jukebox
+author:
+  name: Glen Smith
+  email: glensmithmail@yahoo.ca
+description: "A diary of Canadian Rock and Roll."
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs
