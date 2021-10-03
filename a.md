@@ -7,7 +7,7 @@ permalink: /a
 ---
 
 <div class="container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LgcaaPq_EnE"></iframe>
 </div>
 <br/>
 <h2>Anti Queens - Toronto</h2>
@@ -22,96 +22,23 @@ permalink: /a
 <br/>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
-  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XtgaNu8tI-c"></iframe>
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/d-MFB1QF5gM"></iframe>
 </div>
 <br/>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
-  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XtgaNu8tI-c"></iframe>
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/l71ax_eK6qA"></iframe>
 </div>
 <br/>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
-  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XtgaNu8tI-c"></iframe>
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/Hxr0FwKzoFc"></iframe>
 </div>
 <br/>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/g0TTKJcIYaE"></iframe>
 </div>
-
-
-
-
-          <div class="video-container">
-            <iframe
-
-              title="Anti Queens New Years Eve Bovine Sex Club"
-              src="https://www.youtube.com/embed/g0TTKJcIYaE"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/Hxr0FwKzoFc"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-
-      <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
-
-
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/l71ax_eK6qA"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-        <br>
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/LgcaaPq_EnE"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-      <br>
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/d-MFB1QF5gM"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
         <br>
 
