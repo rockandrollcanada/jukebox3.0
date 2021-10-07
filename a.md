@@ -5,7 +5,8 @@ nav_order: 2
 description: "Rock and Roll Canada Jukebox A bands."
 permalink: /a
 ---
-
+<br/>
+<h2>Arch Ememy - Allissa Whyte-glutz</h2>
 <div class="container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LgcaaPq_EnE"></iframe>
 </div>
@@ -39,54 +40,21 @@ permalink: /a
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/g0TTKJcIYaE"></iframe>
 </div>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/6d_vRTMyjlg"></iframe>
+</div>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/23YP7OOXhkY"></iframe>
+</div>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XdYTItXlxl4/"></iframe>
+</div>
+        
+      
 
-        <br>
+          
 
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/6d_vRTMyjlg"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-      <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
-
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/23YP7OOXhkY"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-        <br>
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/XdYTItXlxl4"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-
-      <br>
-
+         
 
           <div class="video-container">
             <iframe
