@@ -5,6 +5,7 @@ nav_order: 2
 description: "Rock and Roll Canada Jukebox A bands."
 permalink: /a
 ---
+
 <br/>
 <h2>Arch Ememy - Allissa Whyte-glutz</h2>
 <div class="container">
@@ -40,326 +41,109 @@ permalink: /a
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/g0TTKJcIYaE"></iframe>
 </div>
+<br/>
+<h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/6d_vRTMyjlg"></iframe>
 </div>
+<br/>
+<h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/23YP7OOXhkY"></iframe>
 </div>
+<br/>
+<h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XdYTItXlxl4/"></iframe>
 </div>
         
       
+<h2>Anti Queens - Toronto</h2>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/kM66DK9woiI"></iframe>
+</div>
+        
+      
+<h2>Anti Queens - Toronto</h2>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/9APHwVrewps"></iframe>
+</div>
+        
+ <h2>Anti Queens - Toronto</h2>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/NXE3bjLAuCw"></iframe>
+</div>
+               
+<h2>Anti Queens - Toronto</h2>
+<div class="container">
+  <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/9APHwVrewps"></iframe>
+</div>
 
-          
-
-         
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/kM66DK9woiI"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-        <br>
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/9APHwVrewps"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-
-      <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
-
-
-
-          <div class="video-container">
-            <iframe
-
-              title="Rock and Roll Canada Video Lee Aaron"
-              src="https://www.youtube.com/embed/NXE3bjLAuCw"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-        <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/79p3fIkigB0"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-      <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/G4MLq5xx6P0"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-        <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/_tuURDV2iD4"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
 
-       <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
 
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/KP17TeLVvUQ"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-        <br>
 
-          <div class="video-container">
-            <iframe
+
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/8C2JSiJzd_c"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-      <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/K3eeyjEkDKA"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-        <br>
-
-          <div class="video-container">
             <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/L-h3KMo0VrU"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-     <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
 
 
 
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/q3-96xbPyHw"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-        <br>
 
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/YUmkSHzB6y8"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
 
-      <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/iq91kIxgBrs"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
 
-        <br>
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/sEVBXvB_liY"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+
           </div>
-
-
-
-       <br>
-      <img class="responsive-img"
-        src="./images/jukebox-part.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
-
-          <div class="video-container">
-            <iframe
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/1tbHZIj3gXA"
               frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-
-
-     <!--This is a comment. Comments are not displayed in the browser-->
-     <br>
-
-
-
-
-      <div class="container">
-
-       <img class="responsive-img"
-        src="./images/footer.png"
-        alt="Rock and Roll Canada Jukebox Version two."
-      />
-
-        <div class="row">
-              <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-a.html">Jukebox A</a></li>
-            <li><a class="white-text" href="./jukebox-b.html">Jukebox B</a></li>
-            <li><a class="white-text" href="./jukebox-c.html">Jukebox C</a></li>
-            <li><a class="white-text" href="./jukebox-d.html">Jukebox D</a></li>
-          </ul>
-        </div>
-              <div class="col l3 m3 s13">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-e.html">Jukebox E</a></li>
-            <li><a class="white-text" href="./jukebox-f.html">Jukebox F</a></li>
-            <li><a class="white-text" href="./jukebox-g.html">Jukebox G</a></li>
-            <li><a class="white-text" href="./jukebox-h.html">Jukebox H</a></li>
-          </ul>
-        </div>
-              <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-i.html">Jukebox I</a></li>
-            <li><a class="white-text" href="./jukebox-j.html">Jukebox J</a></li>
-            <li><a class="white-text" href="./jukebox-k.html">Jukebox K</a></li>
-            <li><a class="white-text" href="./jukebox-l.html">Jukebox L</a></li>
-          </ul>
-        </div>
-
-              <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-m.html">Jukebox M</a></li>
-            <li><a class="white-text" href="./jukebox-n.html">Jukebox N</a></li>
-            <li><a class="white-text" href="./jukebox-o.html">Jukebox O</a></li>
-            <li><a class="white-text" href="./jukebox-p.html">Jukebox P</a></li>
-          </ul>
-        </div>
-      </div>
-         <div class="row">
-              <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-q.html">Jukebox Q</a></li>
-            <li><a class="white-text" href="./jukebox-r.html">Jukebox R</a></li>
-            <li><a class="white-text" href="./jukebox-s.html">Jukebox S</a></li>
-            <li><a class="white-text" href="./jukebox-t.html">Jukebox T</a></li>
-          </ul>
-        </div>
-        <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-u.html">Jukebox U</a></li>
-            <li><a class="white-text" href="./jukebox-v.html">Jukebox V</a></li>
-            <li><a class="white-text" href="./jukebox-w.html">Jukebox W</a></li>
-            <li><a class="white-text" href="./jukebox-x.html">Jukebox X</a></li>
-          </ul>
-        </div>
-        <div class="col l3 m3 s3">
-
-          <ul>
-            <li><a class="white-text" href="./jukebox-y.html">Jukebox Y</a></li>
-            <li><a class="white-text" href="./jukebox-z.html">Jukebox Z</a></li>
-
-          </ul>
-        </div>
-        </div>
-      </div>
-
-    <div class="footer-copyright">
-      <div class="container">
-      Made by <a class="black-text text-dark-4" href="http://glensmith.ca">&nbsp;Glen Smith</a>
-      </div>
-    </div>
