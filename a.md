@@ -6,12 +6,7 @@ description: "Rock and Roll Canada Jukebox A bands."
 permalink: /a
 ---
 
-[Imgur](https://imgur.com/OSCx3OG)
-![A](https://imgur.com/OSCx3OG)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KucFd1w"  ><a href="//imgur.com/a/KucFd1w">Canada Jukebox</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-https://imgur.com/OSCx3OG
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/willyjack/51573667070/in/dateposted-public/" title="buttonA"><img src="https://live.staticflickr.com/65535/51573667070_b4e5833a4a_c.jpg" width="800" height="450" alt="buttonA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <br/>
 <h2>Arch Ememy - Allissa Whyte-glutz</h2>
