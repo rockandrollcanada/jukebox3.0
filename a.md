@@ -6,6 +6,8 @@ description: "Rock and Roll Canada Jukebox A bands."
 permalink: /a
 ---
 
+![A](https://imgur.com/OSCx3OG)
+
 <br/>
 <h2>Arch Ememy - Allissa Whyte-glutz</h2>
 <div class="container">
@@ -78,7 +80,6 @@ permalink: /a
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/9APHwVrewps"></iframe>
 </div>
-
 
               title="Rock and Roll Canada Video Lee Aaron"
               src="https://www.youtube.com/embed/79p3fIkigB0"
