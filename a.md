@@ -24,6 +24,7 @@ permalink: /a
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/XtgaNu8tI-c"></iframe>
 </div>
 <br/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/willyjack/51573666100/in/dateposted-public/" title="jukebox-part"><img src="https://live.staticflickr.com/65535/51573666100_f3b82ab6b8_c.jpg" width="800" height="108" alt="jukebox-part"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/d-MFB1QF5gM"></iframe>
@@ -39,6 +40,7 @@ permalink: /a
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/Hxr0FwKzoFc"></iframe>
 </div>
 <br/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/willyjack/51573666100/in/dateposted-public/" title="jukebox-part"><img src="https://live.staticflickr.com/65535/51573666100_f3b82ab6b8_c.jpg" width="800" height="108" alt="jukebox-part"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <h2>Anti Queens - Toronto</h2>
 <div class="container">
   <iframe class="responsive-iframe"  src="https://www.youtube.com/embed/g0TTKJcIYaE"></iframe>
